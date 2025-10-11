@@ -1,4 +1,4 @@
-package com.example.stroymarket
+package com.diametr.diametr_mobile
 
 import io.flutter.embedding.android.FlutterActivity
 
